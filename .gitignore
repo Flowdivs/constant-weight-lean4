@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+compat_graph.bin
+best_code_found.json
+cw_search.py
+cw_search_v2.py
+sat_complete.py
+VerifyCode.lean
