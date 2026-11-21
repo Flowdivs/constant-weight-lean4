@@ -1,0 +1,7 @@
+name = "constant_weight_lean4"
+version = "0.1.0"
+defaultTargets = ["FormalRecordCertificate"]
+
+[[lean_lib]]
+name = "FormalRecordCertificate"
+srcDir = "."
