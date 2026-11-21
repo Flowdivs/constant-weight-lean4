@@ -6,3 +6,6 @@ cw_search.py
 cw_search_v2.py
 sat_complete.py
 VerifyCode.lean
+
+.lake/
+lake-manifest.json
